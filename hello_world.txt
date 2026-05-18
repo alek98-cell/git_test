@@ -1,17 +1,4 @@
-[33mcommit dbb212285eb14647f603f5785c1b8824393013a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
-Author: alek98-cell <247852366+alek98-cell@users.noreply.github.com>
-Date:   Mon May 18 14:59:04 2026 +0200
-
-    edit README.md and hello_world.txt
-
-[33mcommit 84aee0dd72672ad3b9e9c45882d0b8ffb957a008[m
-Author: alek98-cell <247852366+alek98-cell@users.noreply.github.com>
-Date:   Mon May 18 14:42:07 2026 +0200
-
-    Add hello_world.txt
-
-[33mcommit eec8a725343aedbbec6d9891638f5c293508be27[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: alek98-cell <247852366+alek98-cell@users.noreply.github.com>
-Date:   Mon May 18 14:31:43 2026 +0200
-
-    Initial commit
+this is a test. hope it works xoxo
+but
+anyways
+lets just see huh
